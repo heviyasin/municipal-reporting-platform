@@ -1,2 +1,13 @@
 # municipal-reporting-platform
-A web platform for reporting community problems to the municipality
+
+This project allows citizens to report community problems
+such as road damage, garbage, or street light issues.
+
+## Features
+- Report problems online
+- Track report status
+- Admin dashboard for municipality
+
+## Team Members
+- Hevi
+- Darya
